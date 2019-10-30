@@ -28,7 +28,7 @@ export default class Contacts extends React.Component {
     contacts: []
   };
 
-// Assuming the API url is http://jsonplaceholder.typicode.com/users complete componentsDidMount
+// Assuming the API url is http://jsonplaceholder.typicode.com/users complete componentDidMount
 // to display my contacts list.
   componentDidMount() {
   }
