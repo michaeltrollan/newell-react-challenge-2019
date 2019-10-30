@@ -11,18 +11,18 @@
    
 ### In the `src` folder there are 3 JS files, `Clock.js`, `ColorBox.js`, and `Contacts.js`.
 
-## For `Clock.js`:
+## 1) For `Clock.js`:
 Complete componentDidMount() so that the clock updates every second.
 
-## For `Colorbox.js`:
+## 2) For `Colorbox.js`:
 Given the constructor, complete First() and Second() methods to update ColorBox h1 background color when 'First' and 'Second' buttons are clicked.
 
-## For `Contacts.js`:
+## 3) For `Contacts.js`:
 Assuming the API url is http://jsonplaceholder.typicode.com/users complete componentDidMount() to display the contacts list.
 
-## Your changes should appear live in the browser once you save the files.
+### Your changes should appear live in the browser once you save the files.
  
-## Also, responsively style the index.html page using bootstrap classes.
+## 4) Responsively style the index.html page and JSX templates using bootstrap classes.
 Bootstrap css is already included in the app. Use bootstrap classes and the proper
 html tags to style the page so that each component is in a proper section and has adequate spacing and margins.
 
