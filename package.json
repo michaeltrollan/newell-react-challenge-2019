@@ -130,9 +130,12 @@
     ]
   },
   "devDependencies": {
+    "bootstrap": "^4.3.1",
     "eslint-config-react-app": "^5.0.2",
     "eslint-plugin-flowtype": "^3.13.0",
     "eslint-plugin-react-hooks": "^1.7.0",
+    "jquery": "^1.12.4",
+    "popper.js": "^1.16.0",
     "tsutils": "^3.17.1",
     "typescript": "^3.6.4"
   }
