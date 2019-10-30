@@ -18,8 +18,14 @@ Complete componentDidMount() so that the clock updates every second.
 Given the constructor, complete First() and Second() methods to update ColorBox h1 background color when 'First' and 'Second' buttons are clicked.
 
 ## For `Contacts.js`:
- Assuming the API url is http://jsonplaceholder.typicode.com/users complete componentDidMount() to display the contacts list.
+Assuming the API url is http://jsonplaceholder.typicode.com/users complete componentDidMount() to display the contacts list.
 
 ## Your changes should appear live in the browser once you save the files.
  
+## Also, responsively style the index.html page using bootstrap classes.
+Bootstrap css is already included in the app. Use bootstrap classes and the proper
+html tags to style the page so that each component is in a proper section and has adequate spacing and margins.
+
+## Total effort for this project should not exceed 60 mins; feel free to make assumptions but please note when doing so.
+
 
