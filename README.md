@@ -26,6 +26,7 @@ Assuming the API url is http://jsonplaceholder.typicode.com/users complete compo
 Bootstrap css is already included in the app. Use bootstrap classes and the proper
 html tags to style the page so that each component is in a proper section and has adequate spacing and margins.
 
+## 5) Once you're finished with the challenge, commit your updates to the repo and send us the url to your github repo. 
 ## Total effort for this project should not exceed 60 mins; feel free to make assumptions but please note when doing so.
 
 
