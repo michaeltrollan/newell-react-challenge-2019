@@ -1,4 +1,4 @@
-# React coding challange 2019.
+# React coding challenge 2019.
 
 1) Ensure NPM is installed on your computer
 2) Fork this repo. 
