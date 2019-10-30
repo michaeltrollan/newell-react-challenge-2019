@@ -3,7 +3,7 @@
 1) Ensure NPM is installed on your computer
 2) Fork this repo. 
 3) Clone the forked repo to your computer.
-4) In the repo, (i.e. react-example folder), run `npm install`
+4) In the repo, (i.e. newell-react-challenge-2019 folder), run `npm install`
 5) Once `npm install` completes, run `npm run start`.
 6) The URL http://localhost:3000/ should open in your browser,
    otherwise navigate to http://localhost:3000/
