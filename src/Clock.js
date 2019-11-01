@@ -9,8 +9,12 @@ export default class Clock extends React.Component {
       time: new Date().toLocaleString()
     };
   }
-  // Update componentDidMount to update clock every second.
+
   componentDidMount() {
+    this.intervalID = setInterval(
+      () => this.tick(),
+      1000
+    );
   }
 
   componentWillUnmount() {
@@ -25,9 +29,11 @@ export default class Clock extends React.Component {
 
   render() {
     return (
-      <h1 className="App-clock">
-        The time is {this.state.time}.
-      </h1>
+      <div className="container">
+        <h1 className="App-clock jumbotron-heading">
+          The time is {this.state.time}.
+        </h1>
+      </div>
     );
   }
 }
